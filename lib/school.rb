@@ -16,6 +16,5 @@ class School
 
   
 
-  end
 
 end #class School
