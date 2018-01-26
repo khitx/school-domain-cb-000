@@ -5,6 +5,8 @@ class School
       @roster = {}
   end
 
+puts @roster
+
   #def add_student(student_name, grade)
     #@roster[:grade] = [] unless @roster[:grade]
     #@roster[:grade] << student_name
